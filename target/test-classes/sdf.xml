@@ -1,0 +1,83 @@
+
+{
+MsgId=22258396825184026,
+FromUserName=oNjkV5ixf23KaWmMaJ-k9YyoVtXk,
+CreateTime=1554730893,
+Content=asdf ,
+ToUserName=gh_f6a1468631d7,
+MsgType=text
+}
+
+<xml>
+	<ToUserName><![CDATA[oNjkV5ixf23KaWmMaJ-k9YyoVtXk]]></ToUserName>
+	<FromUserName><![CDATA[gh_f6a1468631d7]]></FromUserName>
+	<CreateTime>1554730895</CreateTime>
+	<MsgType><![CDATA[text]]></MsgType>
+	<Content><![CDATA[丁见恺]]></Content>
+</xml>
+
+
+
+{
+MsgId=22258402819620189,
+FromUserName=oNjkV5ixf23KaWmMaJ-k9YyoVtXk,
+CreateTime=1554731679,
+Content=sdf ,
+ToUserName=gh_f6a1468631d7,
+MsgType=text
+}
+
+<xml>
+	<ToUserName>gh_f6a1468631d7</ToUserName>
+	<FromUserName>oNjkV5ixf23KaWmMaJ-k9YyoVtXk</FromUserName>
+	<MsgType>text</MsgType>
+	<CreateTime>1554731679</CreateTime>
+	<Content>I love you</Content>
+</xml>
+
+
+
+
+
+<!-- 用户个人信息
+{
+	"subscribe":1,
+	"openid":"oNjkV5ixf23KaWmMaJ-k9YyoVtXk",
+	"nickname":"以北",
+	"sex":1,
+	"language":"zh_CN",
+	"city":"青岛",
+	"province":"山东",
+	"country":"中国",
+	"headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/jwc4mP9X7ovENxAUCFgwdKiabaEguic4BcY1knrWoMgHdJwFrN1UWJtRUFlnlpYnVrgozeqiclpia2XOlRY54BMlWRXwke0icMjpo\/132",
+	"subscribe_time":1554951863,
+	"remark":"",
+	"groupid":0,
+	"tagid_list":[],
+	"subscribe_scene":"ADD_SCENE_QR_CODE",
+	"qr_scene":0,
+	"qr_scene_str":"djkxgg"
+} 
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
